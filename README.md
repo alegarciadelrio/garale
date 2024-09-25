@@ -25,3 +25,5 @@ You can calculate the following items:
 -YEIS rpm operation.
 
 -YEIS optimal hose.
+
+![canio](https://github.com/user-attachments/assets/ffbfa2b4-c032-4e76-940f-f6c4ec4a8c90)
