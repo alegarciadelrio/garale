@@ -1,8 +1,8 @@
 # Garale - Two stroke performance calcs
 Software to increment the performance of 2 stroke engines.
-I started this project with CiclosArgentinos Forum in 2011. This is Java / Eclipse!
+Project started with CiclosArgentinos Forum in 2011. This is Java / Eclipse!
 
-## You can calculate the following items:
+## Features:
 
 -Optimal transfer height.
 
